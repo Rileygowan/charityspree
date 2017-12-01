@@ -35,12 +35,16 @@ body.index {
   background-repeat: no-repeat;
 }
 
+body.show {
+  padding-bottom: 0;
+}
+
 body.new {
-  background: url(round.png);
+  background: url(image_path('round.png'));
 }
 
 body.edit {
-  background: url(gplaypattern.png);
+  background: url(image_path('gplaypattern.png'));
 }
 
 .container-fluid {
