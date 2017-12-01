@@ -1,4 +1,4 @@
-# Charity Spree
+# Charity Spree - www.charityspree.com
 
 Charity Spree makes giving money fun, social and rewarding. By donating on Charity Spree, users can earn badges, which they are invited to share on social media--encouraging friends, family and colleagues to get involved.
 
@@ -29,6 +29,4 @@ Charity Spree makes giving money fun, social and rewarding. By donating on Chari
 * **Riley Gowan** - [Rileygowan](https://github.com/Rileygowan)
 * **Bernie Roach** - [bernieroach](https://github.com/bernieroach/)
 * **Amir Ghandeharioon** - [AmirGhan](https://github.com/AmirGhan)
-
-## Acknowledgments
 
